@@ -1,34 +1,8 @@
 {
   "title": "FusionPFP",
   "images": [
-    { "name": "Sora", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4845.JPG" },
-    { "name": "Roxas", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4870.JPG" },
-    { "name": "Axel", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4873.JPG" },
-    { "name": "Riku", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4874.JPG" },
-    { "name": "Naruto", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4850.JPG" },
-    { "name": "Kakashi", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4851.JPG" },
-    { "name": "Sasuke", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4854.JPG" },
-    { "name": "Sakura", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4855.JPG" },
-    { "name": "Gojo", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4856.JPG" },
-    { "name": "Itadori", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4857.JPG" },
-    { "name": "Megumi", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4859.JPG" },
-    { "name": "Nobara", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4864.JPG" },
-    { "name": "Link", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4865.JPG" },
-    { "name": "Zelda", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4867.JPG" },
-    { "name": "Majoras Mask", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4866.JPG" },
-    { "name": "Wolf Link & Midna", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4869.JPG" },
-    { "name": "Edward Elric", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4875.JPG" },
-    { "name": "Roy Mustang", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4876.JPG" },
-    { "name": "Alphonse Elric", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4877.JPG" },
-    { "name": "Olivier Mira Armstrong", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4878.JPG" },
-    { "name": "Sonic", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4884.JPG" },
-    { "name": "Shadow", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4879.JPG" },
-    { "name": "Amy", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4882.JPG" },
-    { "name": "Tails", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4883.JPG" },
-    { "name": "Spongebob", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4885.JPG" },
-    { "name": "TMNT", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4886.JPG" },
-    { "name": "Avatar", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4888.JPG" },
-    { "name": "Minions", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4889.JPG" }
+    { "name": "Sora", "url": "https://raw.githubusercontent.com/ceusilvas/FusionPFP/main/IMG_4845.JPG" }
   ]
 }
+
 
